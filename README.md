@@ -1,6 +1,6 @@
-# Timesheet
+# Workplace Attendance Tracker
 
-A Simple timesheet/attendance application.
+A Simple workplace timesheet/attendance application.
 
 ## Setup
 
